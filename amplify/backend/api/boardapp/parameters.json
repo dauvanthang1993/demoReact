@@ -1,0 +1,4 @@
+{
+    "AppSyncApiName": "boardapp",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST"
+}
